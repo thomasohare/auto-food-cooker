@@ -1,0 +1,4 @@
+{
+    "endpoint": "https://[ENDPOINT]-ats.iot.eu-west-2.amazonaws.com:8443",
+    "topic": "/topics/sdk/test/python"
+}
