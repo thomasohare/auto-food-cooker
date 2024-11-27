@@ -649,9 +649,7 @@ Once you have confirmed a place, stick some velcro tape on the cooker and the en
 
 Once all of this is set up, you should be able to set the granular options you want to set and, when prompted to press the on button, you now can. From anywhere.
 
-<video controls>
-  <source src="./images/button-push.mp4" type="video/mp4">
-</video>
+![button-push-video](images/button-push.gif)
 
 ## Improvements
 
